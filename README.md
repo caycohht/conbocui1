@@ -1,59 +1,36 @@
-# [harbor](https://themes.gohugo.io/harbor/) - Simple Hugo Theme
+# [Con bổ củi ](https://caycohoaqua.webflow.io/ ) - Con Bổ củi
 
-[![Quality Gate Status](https://sonarcloud.io/api/project_badges/measure?project=matsuyoshi30_harbor&metric=alert_status)](https://sonarcloud.io/dashboard?id=matsuyoshi30_harbor)
+[Cây cỏ hoa quả(https://caycohoaqua.com/)]
 
-Simple and minimal personal blog theme for [Hugo](https://gohugo.io/).
+CON BỔ CỦI - TÁC DỤNG CỦA CON BỔ CỦI (https://caycohoaqua.webflow.io/ ).
 
-![screenshot](https://user-images.githubusercontent.com/16238709/77252732-3698c880-6c99-11ea-9def-15a5f9b918bc.png)
+con bổ củi còn được gọi là con bửa củi, con bần bật, nhiều nơi còn gọi với tên gọi khác nhau
+Con bổ củi có tên gọi như vậy là do khi cầm trên tay thường lấy cái đầu gật gật liên tục, và rất mạnh nên được gọi là con bổ củi
 
-![screenshot-dark](https://user-images.githubusercontent.com/16238709/77252745-529c6a00-6c99-11ea-95f6-2df83dfff35e.png)
 
-[Here](https://themes.gohugo.io/theme/harbor/) is the demo link.
+
 
 ## Features
 
-- Support tags and categories and archives
-- Google Analytics integration
-- Responsive
-- Dark mode
-- Syntax Highlight (see [Hugo doc](https://gohugo.io/content-management/syntax-highlighting/))
-- Search entire blog posts
-- Table Of Contents
-- Disqus
+- Viết gì tùy ý
 
 ## Installation & Update
 
-```
-$ # install
-$ mkdir themes
-$ cd themes
-$ git submodule add https://github.com/matsuyoshi30/harbor.git harbor
-
-$ # update
-$ git submodule update --remote --merge
-```
-
-If you want to know more information, see [Hugo doc](https://gohugo.io/themes/installing/).
+Viết gì thì tùy
 
 ## Usage
 
-When you manually create files by following [quick start (step4)](https://gohugo.io/getting-started/quick-start/#step-4-add-some-content), you should command `hugo new post/<filename>.md` instead of `hugo new posts/<filename>.md` because some styles are specified by the class name (like `post-heading`) in the [main.css](./static/css/main.css).
+cứ viết thôi
 
 #### `config.toml` example
 
-```toml
-theme = "harbor"
-baseurl = "https://example.com/"
-title = "Hugo Themes"
-paginate = 3
-languageCode = "en"
-DefaultContentLanguage = "en"
-enableInlineShortcodes = true
-footnoteReturnLinkContents = "^"
+tiếp tục viết
 
 # Optional
+
 # If you use googleAnalytics, you set top-level options in config.toml to the beginning of the config file like other top-level options.
 googleAnalytics = "UA-XXXXXXXX-XX"
+
 # and disqus too.
 disqusShortName = "yourdisqusshortname"
 
